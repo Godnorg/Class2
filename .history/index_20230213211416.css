@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page1 {
+    background: #1B3764;
+}
+
+.allpages {
+    width: 85%;
+    margin: auto;
+}

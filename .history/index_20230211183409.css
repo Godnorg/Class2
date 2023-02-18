@@ -1,0 +1,25 @@
+body {
+    background: #1B3764;
+}
+.page{
+    background: #1B3764
+}
+
+.navigation {
+
+}
+
+.nav-left-1 {
+    display: flex;
+}
+
+.nav-left-2 {
+    display: flex;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+}

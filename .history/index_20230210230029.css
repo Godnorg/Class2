@@ -1,0 +1,15 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%
+}

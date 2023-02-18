@@ -1,0 +1,14 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    display: grid;
+    grid-template-colums: 1fr 1fr 1fr;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%
+}

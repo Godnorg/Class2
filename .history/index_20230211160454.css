@@ -1,0 +1,19 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%
+}
+
+.links {
+    display: flex-inline;
+}

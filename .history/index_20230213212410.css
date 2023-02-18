@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page1 {
+    background: #1B3764;
+    padding-bottom: 75px;
+
+}
+
+.allpages {
+    width: 85%;
+    margin: auto;
+}
+
+.middle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
